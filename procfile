@@ -1,0 +1,1 @@
+web gunicorn dwipalapp.wsgi --log-file -
